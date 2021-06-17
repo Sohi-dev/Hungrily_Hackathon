@@ -49,12 +49,12 @@ It's the need of the hour to use the mastery of technologies and mend the gaps, 
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Hungrily Architecture](https://user-images.githubusercontent.com/85761117/122475686-a6a01680-cfe2-11eb-9560-ce38ae82cd72.jpg)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user navigates to the site and interacts with the chatbot to laudge a food request to nearby volunteers.
+2. The platform performs a GeoJson query to find a volunteer within a closed radius of 2kms from the point of request and assigns a food request to them.
+3. The GeoJson feature is constructed and displayed in a mapbox as a heatmap layer for providing data driven decisions.
+4. The data collected from both ends are further collected and stored in MongoDB for establishing connection.
 
 ## Long description
 
@@ -72,7 +72,7 @@ It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run o
 
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap (2)](https://user-images.githubusercontent.com/85761117/122476884-8709ed80-cfe4-11eb-85ca-7a91cdd9445b.png)
 
 ## Getting started
 
