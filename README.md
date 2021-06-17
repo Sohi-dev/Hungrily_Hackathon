@@ -33,15 +33,15 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+A huge section of the world is going through hunger problems because of financial issues, mis-management and failure in locating people who are starving. In many cases we fail to connect the resources with needy ones. Thus this needs a solution in such dire situations.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+In this pandemic situation, technology can help managing the resources and reaching out the needy ones in a smarter and time efficient manner, contributing to the larger welfare.
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+It's the need of the hour to use the mastery of technologies and mend the gaps, striving towards the common goal of zero hunger all over. Thus, creating a common medium to connect the volunteers (food providers) and users (needy people) through a data driven AI based platform using the IBM tech support, a set of open source tools and Watson Services. This web application will enable the one in need to connect with their helper with the effort of just a single 'text'.
 
 ## Demo video
 
@@ -58,7 +58,7 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Long description
 
-[More detail is available here](./docs/DESCRIPTION.md)
+(./docs/DESCRIPTION.md)
 
 ## Project roadmap
 
