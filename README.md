@@ -56,6 +56,7 @@ It's the need of the hour to use the mastery of technologies and mend the gaps, 
 3. The GeoJson feature is constructed and displayed in a mapbox as a heatmap layer for providing data driven decisions.
 4. The data collected from both ends are further collected and stored in MongoDB for establishing connection.
 
+
 ## Long description
 
 [DESCRIPTION.md](https://github.com/Sohi-dev/Hungrily_Hackathon/blob/main/docs/DESCRIPTION.md)
@@ -68,6 +69,7 @@ The project currently does the following things.
 - It enables volunteers to see all the requests assigned to them.
 - It features a world heatmap displaying areas with the most food requests.
 - It features a geoJson query based algorithm to fetch the nearest volunteer with respect to an user.
+- It further aims towards the implementation of DTN(Delay-tolerant networking) technology to connect the user and the volunteer through a virtual map, increasing the accuracy of   location detection. 
 
 It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
 
