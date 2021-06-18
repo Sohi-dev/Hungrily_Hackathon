@@ -45,7 +45,7 @@ It's the need of the hour to use the mastery of technologies and mend the gaps, 
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+https://youtu.be/Ap90MscOtqU
 
 ## The architecture
 
