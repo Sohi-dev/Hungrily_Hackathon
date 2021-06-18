@@ -64,13 +64,14 @@ It's the need of the hour to use the mastery of technologies and mend the gaps, 
 
 The project currently does the following things.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- It enables the user to request food and get assigned volunteer details via IBM watson assistant.
+- It enables volunteers to see all the requests assigned to them.
+- It features a world heatmap displaying areas with the most food requests.
+- It features a geoJson query based algorithm to fetch the nearest volunteer with respect to an user.
 
 It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
 
-See below for our proposed schedule on next steps after Call for Code 2021 submission.
+See below for our proposed schedule on next steps after WitAce 2021 submission.
 
 ![Roadmap (2)](https://user-images.githubusercontent.com/85761117/122476884-8709ed80-cfe4-11eb-85ca-7a91cdd9445b.png)
 
