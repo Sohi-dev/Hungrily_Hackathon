@@ -12,7 +12,7 @@ The volunteers on the other hand can login to the page as volunteers after doing
 
 ### Subsection 1.1
 
-EXPLAIN THE FRONTEND IN NOT MANY WORDS
+FRONTEND 
 An user who needs emergency provisions can login to our React application. Upon login, A Watson Assistant based Chatbot will greet them.
 A user can send a food request to the chatbot. It will assign a volunteer to bring the food. The details of the volunteer as well as 
 the food request and delivery status can be previewed in the Receipt screen. 
@@ -22,7 +22,7 @@ the density of food requests in a world map which can then be used to organize f
 
 ### Subsection 1.2
 
-EXPLAIN THE BACKEND IN NOT MANY WORDS
+BACKEND
 
 The backend runs in a node.js application and communicates with a mongoDB database. It provides role based authentication and 
 CRUD operations over the database. It also uses a geoJson query aggregation along with our custom algorithm which assigns volunteers
@@ -34,7 +34,7 @@ Lastly we wanna conclude saying this approach will really help us resolving the 
 
 ### Results
 
-THE DESIRED OUTCOME ON HOST SERVER.
+
 
 ## Acknowledgments
 
@@ -44,4 +44,4 @@ We would like to take this opportunity to express our profound gratitude and dee
 WE would also like to give our sincere gratitude to all the friends who filled in the survey, without which this project would be a incomplete one.
 
 
-APLLICATIONS AND RESOURCES USED, THANKING THE TEAM AND THE MENTOR.
+THANKING THE TEAM AND THE MENTOR.
