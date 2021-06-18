@@ -5,11 +5,9 @@ In this current scenario we are dealing with a lot of Hunger problems, many NGOs
 
 [Project website](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
-## Section 1
+## ABOUT HUNGRILY
 
-EXPLAIN THE CONCEPTS AND USES OF THE APPLICATION
-
-In our data driven AI based web application HUNGRILY we are mainly focusing on resolving hunger related problems . In our web application we first have a registration page where there are  two different Login places one for the user and another for the volunteer.First for the user login  part the user needs to login to the page using their detailed information. As soon as they fill the information the locator present in their phone tracts their current location and this information is passed on to the next process wherein the  chatbot takes up the food preference of the user and this is again passed on to the volunteers. 
+In our data driven AI based web application, HUNGRILY we are mainly focusing on resolving hunger related problems over the globe, primarily in our area as a micro-management topic and further pushing it to macro-management. Our web application starts with a registration page where we have designed two different Login sections, one for the user(person in need) and another for the volunteer(person who will provide help).First for the user login  part the user needs to login to the page using their detailed information. As soon as they fill the information the locator present in their phone tracts their current location and this information is passed on to the next process wherein the  chatbot takes up the food preference of the user and this is again passed on to the volunteers. 
 The volunteers on the other hand can login to the page as volunteers after doing so they get a notification if users around 2km are present then based on their preferences  the volunteer  needs to provide food to the user. In case if the Volunteer denies to help then after a relapse time of 5sec the user can again ask for the request. Thus this is our small effort to bridge the gap between the User and the volunteer.
 
 ### Subsection 1.1
