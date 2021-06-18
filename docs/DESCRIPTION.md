@@ -1,6 +1,7 @@
 # Submission name
 
 EXPLAIN THE IDEA IN DETAILS
+
 In this current scenario we are dealing with a lot of Hunger problems many NGO and even the united nations are trying to resolve and bring a zero Hunger state.In this context this is our small effort to bring up this concept with the help of technologies.Our main idea is to develope a data driven AI  based platform to connect the poor and needy people with the resources with the help of volunteers. 
 
 
