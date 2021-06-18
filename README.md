@@ -87,7 +87,7 @@ In this section you add the instructions to run your project on your local machi
 
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+https://frosty-mccarthy-5be103.netlify.app/
 
 ## Built with
 
