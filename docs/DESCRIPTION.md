@@ -1,8 +1,6 @@
-# Submission name
+# Hungrily_Hackathon
 
-EXPLAIN THE IDEA IN DETAILS
-
-In this current scenario we are dealing with a lot of Hunger problems many NGO and even the united nations are trying to resolve and bring a zero Hunger state.In this context this is our small effort to bring up this concept with the help of technologies.Our main idea is to develope a data driven AI  based platform to connect the poor and needy people with the resources with the help of volunteers. 
+In this current scenario we are dealing with a lot of Hunger problems, many NGOs and even the United Nations are trying to resolve the disputes,aiming towards a hunger free region.In this context this is our small effort to bring up this concept with the help of modern technologies backed by IBM cloud and Kubernetes. Our main idea is to develope a data driven AI based platform to connect the needy people with the resources via the help of volunteers so that the help reaches out to them when a request is made.
 
 
 [Project website](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
