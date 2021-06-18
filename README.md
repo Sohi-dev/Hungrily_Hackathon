@@ -58,7 +58,7 @@ It's the need of the hour to use the mastery of technologies and mend the gaps, 
 
 ## Long description
 
-![DESCRIPTION.md](https://github.com/Sohi-dev/Hungrily_Hackathon/blob/main/docs/DESCRIPTION.md)
+[DESCRIPTION.md](https://github.com/Sohi-dev/Hungrily_Hackathon/blob/main/docs/DESCRIPTION.md)
 
 ## Project roadmap
 
