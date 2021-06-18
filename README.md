@@ -96,6 +96,7 @@ https://frosty-mccarthy-5be103.netlify.app/
 - [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
 - React and Node JS
 - Watson Services
+- MongoDB Express
 
 ## Contributing
 
