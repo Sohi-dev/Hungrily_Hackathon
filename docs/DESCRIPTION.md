@@ -30,12 +30,18 @@ closest to the user creating a request for food.
 
 ## Conclusion
 
-WHAT WE COULD ESTABLISH IN THE PROCESS, WHAT MORE WE CAN DO WITH IT IN ABOUT 100 WORDS
+Lastly we wanna conclude saying this approach will really help us resolving the hunger problems which is prevailing all over the globe.This connects many poor people together with the resources and helps them to get the food that they need.The approach can be further explained with the concept of DTN in future days wherein we can implement this technology like whenever a volunteer is found within 2km region of the user the virtual map of the user gets automatically shared with the volunteer and a connection is made out of it.Thus this concept can solve a emerging problem . 
 
 ### Results
 
 THE DESIRED OUTCOME ON HOST SERVER.
 
 ## Acknowledgments
+
+First of all we would like to convey our gratitude to the WITACE and IBM team for giving us such a great oppurtunity to participate in this hackathon with such a noble theme.
+We would like to take this opportunity to express our profound gratitude and deep regard to our Project guide Soumyadip Chowdhury , for his exemplary guidance, valuable feedback and constant encouragement throughout the duration of the project. His valuable suggestions were of immense help throughout my project work. His perceptive criticism kept us working to make this project in a much better way. Working under him was an extremely knowledgeable experience for us.
+
+WE would also like to give our sincere gratitude to all the friends who filled in the survey, without which this project would be a incomplete one.
+
 
 APLLICATIONS AND RESOURCES USED, THANKING THE TEAM AND THE MENTOR.
