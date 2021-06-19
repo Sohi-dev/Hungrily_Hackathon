@@ -87,7 +87,7 @@ In this section you add the instructions to run your project on your local machi
 
 ## Live demo
 
-https://frosty-mccarthy-5be103.netlify.app/
+[Project website] (https://hungrily.netlify.app/)
 
 ## Built with
 
