@@ -1,12 +1,10 @@
-# Submission or project name
+# Hungrily
 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
+[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://hungrily.netlify.app/)
 
-A basic GitHub repository example for new [Call for Code](https://developer.ibm.com/callforcode/) projects and those that join the Call for Code with The Linux Foundation deployment initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need. And don't forget to [register for Call for Code 2021](https://developer.ibm.com/callforcode/get-started/)!
+A basic GitHub repository  with documentation and code of Hungrily,a WiTACE 2021 Hackathon Solution using IBM Watson Assitant and GeoJson which create a common medium to connect the volunteers and users through a data-driven AI-based platform. This web application will enable the one in need to connect with their helper with just a single 'text'.
 
 > If you're new to open source, please consider taking the [free "Introduction to Open Source" class](https://cognitiveclass.ai/courses/introduction-to-open-source).
-
-_Read this in other languages: [English](README.md), [한국어](./docs/README.ko.md), [português](./docs/README.pt_br.md)._
 
 ## Contents
 
@@ -20,7 +18,6 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
   - [Live demo](#live-demo)
   - [Built with](#built-with)
   - [Contributing](#contributing)
@@ -45,7 +42,7 @@ It's the need of the hour to use the mastery of technologies and mend the gaps, 
 
 ## Demo video
 
-https://youtu.be/Ap90MscOtqU
+[![Watch You Video](https://user-images.githubusercontent.com/58937669/122807710-8aa1bb00-d2e9-11eb-82d4-3704de427f13.png)](https://youtu.be/Ap90MscOtqU)
 
 ## The architecture
 
@@ -77,23 +74,21 @@ See below for our proposed schedule on next steps after WitAce 2021 submission.
 
 ![Roadmap (2)](https://user-images.githubusercontent.com/85761117/122476884-8709ed80-cfe4-11eb-85ca-7a91cdd9445b.png)
 
-## Getting started
-
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
-
 ## Live demo
 
-[Project website] (https://hungrily.netlify.app/)
+[Project website](https://hungrily.netlify.app/)
+
+## Screenshot
+![Screenshot 2021-06-21 000348](https://user-images.githubusercontent.com/58937669/122684660-4993a300-d224-11eb-9939-b9e7310bf1f3.png)
 
 ## Built with
 
 - [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
+- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results)
+- The compute platform for handing logic
+- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) 
+
+## The web framework used
 - React and Node JS
 - Watson Services
 - MongoDB Express
@@ -104,14 +99,14 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [Github](http://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
- 1. Sohini Chakraborty
- 2. Sudeshna Bhowmik
- 3. Srijita Bandopadhyay
- 4. Prasun Das
- 5. Soumava Banerjee
+ 1. [Sohini Chakraborty](https://github.com/Sohi-dev)
+ 2. [Sudeshna Bhowmik](https://www.linkedin.com/in/sudeshna-bhowmik-65749820a/)
+ 3. [Srijita Bandopadhyay](https://github.com/Srijita30)
+ 4. [Prasun Das](https://github.com/Prasundas99)
+ 5. [Soumava Banerjee](https://github.com/SoumavaBanerjee)
 
 ## License
 
